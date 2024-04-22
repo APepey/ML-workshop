@@ -5,13 +5,13 @@
 An open-source project analysing malaria vectors ecology in Cambodia using machine learning, based on data collected during my PhD, motivated by my will to participate to universal access to knowledge, support open science, and f**k Elsevier et al.
 Anyone is free to participate, even though the data is already a few years old and it is a pretty niche interest. I just believe in open data, and who knows, it might be useful to someone.
 
-Collection dates: 2019-2020
-Collecttion Sites: Kaev Seima District, Mondulkiri Province, Cambodia
+- Collection dates: 2019-2020
+- Collection sites: Kaev Seima District, Mondulkiri Province, Cambodia
+- Affiliation: Molecular Malaria Epidemiology Unit, Pasteur Institute of Cambodia
 
-Affiliation: Molecular Malaria Epidemiology Unit, Pasteur Institute of Cambodia
-
-Relevant Research:
-TODO: complete with papers
+Some relevant Research:
+ - paper 1
+ - paper 2
 
 ## Contributing
 
@@ -29,14 +29,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Anaïs Pepey, PhD - [My portfolio](https://apepey.notion.site/Ana-s-Pepey-PhD-5086e0b7c889490abfa67625339825f8) - [My email](mailto:ana.pepey@posteo.net)
+Anaïs Pepey, PhD - [portfolio](https://apepey.notion.site/Ana-s-Pepey-PhD-5086e0b7c889490abfa67625339825f8) - [email](mailto:ana.pepey@posteo.net)
 
 Project Link: [https://github.com/APepey/malaria-kh](https://github.com/APepey/malaria-kh)
 
 ## Photo gallery
 
 Parcel of forest cleared with the slash-and-burn method to make space for agriculture:
-![a large path with burnt stumps surrounded by lush forest](images/0C2DD918-AE1E-4724-8A7F-080A154A810C_1_105_c.jpeg)
+
+![a large path with burnt stumps surrounded by some trees](images/0C2DD918-AE1E-4724-8A7F-080A154A810C_1_105_c.jpeg)
 
 Determined PhD student braving the elements to collect mosquitoes:
-![motorcycle crossing the forest on a muddy path](images/05A714A7-B75D-4A32-9C03-8571FCC997E6_1_105_c.jpeg)
+
+![motorcycle going through puddles muddy path crossing through the jungle](images/05A714A7-B75D-4A32-9C03-8571FCC997E6_1_105_c.jpeg)
