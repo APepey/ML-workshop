@@ -33,4 +33,10 @@ Anaïs Pepey, PhD - [My portfolio](https://apepey.notion.site/Ana-s-Pepey-PhD-50
 
 Project Link: [https://github.com/APepey/malaria-kh](https://github.com/APepey/malaria-kh)
 
-![Parcel of forest destroyed by the slash and burn method to make space for agriculture](images/05A714A7-B75D-4A32-9C03-8571FCC997E6_1_105_c.jpeg)
+## Photo gallery
+
+Parcel of forest cleared with the slash-and-burn method to make space for agriculture:
+![a large path with burnt stumps surrounded by lush forest](images/0C2DD918-AE1E-4724-8A7F-080A154A810C_1_105_c.jpeg)
+
+Determined PhD student braving the elements to collect mosquitoes:
+![motorcycle crossing the forest on a muddy path](images/05A714A7-B75D-4A32-9C03-8571FCC997E6_1_105_c.jpeg)
