@@ -1,0 +1,2021 @@
+Sample_number,Breeding_site_code,Site_code,LU,Round,Day,Month,Year,Season,Genus,Species,Species_complete,Sex
+1,PL01_G003,PL01,plantations,1,2,11,2019,Rainy,Culex,,,male
+2,FIH03_G17,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+3,FIH03_G17,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+4,FIH03_G18,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+5,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,male
+6,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Anopheles,unidentified,,female
+7,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+8,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+9,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+10,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+11,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+12,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+13,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+14,FIL01_G003,FIL01,fields,1,30,10,2019,Rainy,Culex,,,male
+15,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+16,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+17,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,male
+18,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+19,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+20,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+21,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,male
+22,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,male
+23,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,female
+24,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+25,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+26,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+27,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+28,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+29,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,subpictus,An. subpictus,female
+30,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+31,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+32,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+33,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+34,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+35,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+36,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+37,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+38,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+39,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+40,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+41,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+42,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+43,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,male
+44,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Anopheles,jamessii,An. jamessii,female
+45,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Anopheles,jamessii,An. jamessii,female
+46,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Anopheles,jamessii,An. jamessii,female
+47,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Anopheles,jamessii,An. jamessii,female
+48,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Anopheles,jamessii,An. jamessii,female
+49,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Anopheles,jamessii,An. jamessii,male
+50,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+51,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+52,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+53,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+54,PL04_G005,PL04,plantations,1,1,11,2019,Rainy,Aedes,,,male
+55,V06_G009,V06,village,1,1,11,2019,Rainy,Malaya ,jacobsoni,An. jacobsoni,female
+56,V06_G009,V06,village,1,1,11,2019,Rainy,Malaya ,jacobsoni,An. jacobsoni,female
+57,V06_G009,V06,village,1,1,11,2019,Rainy,Malaya ,jacobsoni,An. jacobsoni,female
+58,V06_G009,V06,village,1,1,11,2019,Rainy,Malaya ,jacobsoni,An. jacobsoni,female
+59,V06_G009,V06,village,1,1,11,2019,Rainy,Malaya ,jacobsoni,An. jacobsoni,female
+60,V06_G009,V06,village,1,1,11,2019,Rainy,Malaya ,jacobsoni,An. jacobsoni,female
+61,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+62,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+63,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,male
+64,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+65,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+66,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+67,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+68,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+69,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Anopheles,subpictus,An. subpictus,female
+70,V05_G005,V05,village,1,1,11,2019,Rainy,Anopheles,vagus,An. vagus,female
+71,V05_G003,V05,village,1,29,10,2019,Rainy,Culex,,,female
+72,V05_G004,V05,village,1,29,10,2019,Rainy,Anopheles,vagus,An. vagus,female
+73,V05_G004,V05,village,1,29,10,2019,Rainy,Anopheles,unidentified,,male
+74,V05_G004,V05,village,1,29,10,2019,Rainy,Anopheles,vagus,An. vagus,female
+75,V05_G004,V05,village,1,29,10,2019,Rainy,Anopheles,vagus,An. vagus,female
+76,V05_G007,V05,village,1,1,11,2019,Rainy,Culex,,,male
+77,V05_G007,V05,village,1,1,11,2019,Rainy,Culex,,,male
+78,V06_G007,V06,village,1,1,11,2019,Rainy,Aedes,,,female
+79,V06_G007,V06,village,1,1,11,2019,Rainy,Aedes,,,male
+80,V06_G008,V06,village,1,1,11,2019,Rainy,Aedes,,,female
+81,V06_G008,V06,village,1,1,11,2019,Rainy,Aedes,,,female
+82,V06_G009,V06,village,1,1,11,2019,Rainy,Culex,,,female
+83,V06_G009,V06,village,1,1,11,2019,Rainy,Culex,,,female
+84,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+85,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,vagus,An. vagus,female
+86,V06_G016,V06,village,1,1,11,2019,Rainy,Culex,,,male
+87,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Culex,,,male
+88,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+89,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Anopheles,unidentified,,male
+90,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Anopheles,unidentified,,male
+91,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+92,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+93,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Anopheles,unidentified,,male
+94,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Anopheles,unidentified,,male
+95,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Anopheles,unidentified,,male
+96,V05_G007,V05,village,1,29,10,2019,Rainy,Culex,,,male
+97,V05_G007,V05,village,1,29,10,2019,Rainy,Culex,,,male
+98,FIL01_G001,FIL01,fields,1,1,11,2019,Rainy,Aedes,,,female
+99,FIL01_G001,FIL01,fields,1,1,11,2019,Rainy,Aedes,,,male
+100,FIL01_G001,FIL01,fields,1,1,11,2019,Rainy,Aedes,,,male
+101,FIL01_G001,FIL01,fields,1,1,11,2019,Rainy,Aedes,,,male
+102,FIL01_G001,FIL01,fields,1,1,11,2019,Rainy,Aedes,,,male
+103,FIL01_G001,FIL01,fields,1,1,11,2019,Rainy,Aedes,,,male
+104,FIL01_G001,FIL01,fields,1,1,11,2019,Rainy,Aedes,,,female
+105,FIL01_G001,FIL01,fields,1,1,11,2019,Rainy,Aedes,,,male
+106,FIL01_G001,FIL01,fields,1,1,11,2019,Rainy,Aedes,,,male
+107,FIL01_G001,FIL01,fields,1,1,11,2019,Rainy,Aedes,,,male
+108,FIL01_G001,FIL01,fields,1,1,11,2019,Rainy,Aedes,,,male
+109,FIL01_G001,FIL01,fields,1,1,11,2019,Rainy,Aedes,,,male
+110,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+111,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+112,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+113,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+114,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+115,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+116,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+117,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+118,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+119,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+120,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Anopheles,jamessii,An. jamessii,female
+121,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Anopheles,jamessii,An. jamessii,female
+122,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+123,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+124,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+125,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+126,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+127,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+128,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,female
+129,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+130,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+131,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+132,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+133,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+134,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+135,FIH03_G016,FIH03,fields,1,1,11,2019,Rainy,Anopheles,subpictus,An. subpictus,female
+136,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+137,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+138,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+139,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+140,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+141,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+142,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+143,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+144,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+145,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+146,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+147,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+148,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+149,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+150,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,vagus,An. vagus,female
+151,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,vagus,An. vagus,female
+152,V05_G003,V05,village,1,29,10,2019,Rainy,Anopheles,unidentified,,male
+153,V05_G003,V05,village,1,29,10,2019,Rainy,Anopheles,subpictus,An. subpictus,female
+154,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+155,V05_G005,V05,village,1,29,10,2019,Rainy,Anopheles,subpictus,An. subpictus,female
+156,V05_G005,V05,village,1,29,10,2019,Rainy,Anopheles,subpictus,An. subpictus,female
+157,V05_G005,V05,village,1,29,10,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+158,V05_G002,V05,village,1,29,10,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+159,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+160,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+161,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+162,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+163,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+164,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+165,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+166,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+167,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+168,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+169,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+170,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+171,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+172,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+173,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+174,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+175,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+176,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+177,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+178,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+179,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+180,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+181,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+182,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+183,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+184,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+185,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+186,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+187,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+188,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+189,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+190,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+191,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+192,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+193,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+194,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+195,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+196,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+197,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+198,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+199,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+200,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+201,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+202,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+203,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+204,FIH03_G005,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+205,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+206,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+207,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+208,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+209,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+210,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+211,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+212,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+213,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+214,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+215,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+216,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+217,V06_G016,V06,village,1,1,11,2019,Rainy,Unidentified,,,female
+218,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,subpictus,An. subpictus,female
+219,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,subpictus,An. subpictus,female
+220,V06_G015,V06,village,1,1,11,2019,Rainy,Culex,,,female
+221,V06_G015,V06,village,1,1,11,2019,Rainy,Culex,,,male
+222,V06_G015,V06,village,1,1,11,2019,Rainy,Culex,,,male
+223,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Culex,,,male
+224,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Culex,,,male
+225,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Culex,,,male
+226,PL04_G003,PL04,plantations,1,1,11,2019,Rainy,Culex,,,female
+227,PL04_G003,PL04,plantations,1,2,11,2019,Rainy,Culex,,,female
+228,PL04_G003,PL04,plantations,1,2,11,2019,Rainy,Culex,,,male
+229,PL04_G003,PL04,plantations,1,2,11,2019,Rainy,Culex,,,female
+230,FIL01_G001,FIL01,fields,1,30,11,2019,Rainy,Aedes,,,female
+231,FIL01_G001,FIL01,fields,1,30,11,2019,Rainy,Aedes,,,female
+232,FIL01_G001,FIL01,fields,1,30,11,2019,Rainy,Aedes,,,female
+233,FIH03_G002,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+234,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+235,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+236,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+237,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+238,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+239,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+240,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+241,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+242,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Anopheles,barbirostris,An. barbirostris,female
+243,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+244,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+245,FIH03_G006,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+246,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+247,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+248,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+249,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+250,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+251,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+252,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+253,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+254,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+255,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+256,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+257,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+258,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+259,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+260,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+261,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+262,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+263,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+264,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+265,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+266,FIH03_G015,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+267,FIH03_G016,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+268,FIH03_G016,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+269,FIH03_G016,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+270,FIH03_G016,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+271,FIH03_G016,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+272,FIH03_G016,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+273,FIH03_G016,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+274,FIH03_G016,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+275,FIH03_G016,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+276,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+277,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+278,FIH04_G004,FIH04,fields,1,1,11,2019,Rainy,Culex,,,female
+279,FIH04_G001,FIH04,fields,1,16,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+280,FIH04_G001,FIH04,fields,1,16,11,2019,Rainy,Anopheles,unidentified,,male
+281,FIH04_G001,FIH04,fields,1,16,11,2019,Rainy,Anopheles,unidentified,,male
+282,FIH04_G001,FIH04,fields,1,16,11,2019,Rainy,Anopheles,maculatus,An. maculatus,female
+283,FIH04_G001,FIH04,fields,1,16,11,2019,Rainy,Culex,,,female
+284,FIH04_G001,FIH04,fields,1,16,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+285,FIH04_G001,FIH04,fields,1,16,11,2019,Rainy,Anopheles,unidentified,,male
+286,FIH04_G001,FIH04,fields,1,16,11,2019,Rainy,Anopheles,jamessii,An. jamessii,female
+287,FIH04_G002,FIH04,fields,1,16,11,2019,Rainy,Anopheles,subpictus,An. subpictus,female
+288,FIL01_G001,FIL01,fields,1,15,10,2019,Rainy,Aedes,,,male
+289,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,female
+290,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,female
+291,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,female
+292,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,male
+293,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,male
+294,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,male
+295,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,male
+296,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,male
+297,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,male
+298,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,female
+299,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,male
+300,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,male
+301,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,male
+302,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,male
+303,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,male
+304,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,female
+305,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,female
+306,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,female
+307,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,female
+308,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,male
+309,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,female
+310,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,female
+311,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,male
+312,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,female
+313,FIL01_G001,FIL01,fields,1,28,10,2019,Rainy,Aedes,,,female
+314,V06_G007,V06,village,1,1,11,2019,Rainy,Armigeres,,,female
+315,FIH03_G001,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+316,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+317,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+318,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+319,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+320,PL01_G005,PL01,plantations,1,2,11,2019,Rainy,Anopheles,unidentified,,male
+321,PL01_G005,PL01,plantations,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+322,PL04_G005,PL04,plantations,1,1,11,2019,Rainy,Unidentified,,,female
+323,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+324,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+325,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+326,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+327,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+328,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+329,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+330,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+331,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+332,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+333,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+334,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+335,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+336,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+337,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+338,FIH03_G017,FIH03,fields,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+339,V06_G003,V06,village,1,1,11,2019,Rainy,Aedes,,,female
+340,V06_G003,V06,village,1,1,11,2019,Rainy,Aedes,,,male
+341,V06_G003,V06,village,1,1,11,2019,Rainy,Aedes,,,female
+342,V06_G003,V06,village,1,1,11,2019,Rainy,Aedes,,,male
+343,V06_G003,V06,village,1,1,11,2019,Rainy,Aedes,,,male
+344,V06_G003,V06,village,1,1,11,2019,Rainy,Armigeres,,,female
+345,V06_G003,V06,village,1,1,11,2019,Rainy,Aedes,,,female
+346,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+347,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+348,FIH03_G012,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+349,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+350,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+351,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+352,V06_G008,V06,village,1,1,11,2019,Rainy,Aedes,,,female
+353,V06_G008,V06,village,1,1,11,2019,Rainy,Aedes,,,female
+354,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+355,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+356,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+357,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+358,FIH03_G014,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+359,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+360,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+361,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+362,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+363,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+364,FIH03_G016,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,male
+365,FIL03_G011,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+366,FIL03_G011,FIL03,plantations,1,15,11,2019,Rainy,Armigeres,,,female
+367,PL04_G004,PL04,plantations,1,1,11,2019,Rainy,Aedes,,,female
+368,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+369,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Anopheles,unidentified,,female
+370,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+371,FIH03_G009,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+372,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+373,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+374,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+375,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+376,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+377,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+378,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+379,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+380,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+381,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+382,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+383,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+384,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+385,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+386,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+387,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+388,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+389,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+390,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+391,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+392,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+393,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+394,FOH02_G004,FOH02,forest,1,15,10,2019,Rainy,Culex,,,female
+395,FOH02_G004,FOH02,forest,1,19,10,2019,Rainy,Culex,,,male
+396,FOH02_G004,FOH02,forest,1,19,10,2019,Rainy,Culex,,,male
+397,FOH02_G004,FOH02,forest,1,19,10,2019,Rainy,Culex,,,male
+398,FOH02_G004,FOH02,forest,1,19,10,2019,Rainy,Culex,,,female
+399,FOH02_G004,FOH02,forest,1,19,10,2019,Rainy,Culex,,,male
+400,FOH02_G004,FOH02,forest,1,19,10,2019,Rainy,Culex,,,female
+401,FOH02_G004,FOH02,forest,1,19,10,2019,Rainy,Aedes,,,male
+402,FOH02_G004,FOH02,forest,1,19,10,2019,Rainy,Culex,,,male
+403,FOH02_G004,FOH02,forest,1,19,10,2019,Rainy,Culex,,,male
+404,FOH02_G004,FOH02,forest,1,19,10,2019,Rainy,Culex,,,male
+405,FIL03_G002,FIL03,plantations,1,15,10,2019,Rainy,Culex,,,female
+406,FIL03_G002,FIL03,plantations,1,15,10,2019,Rainy,Culex,,,female
+407,FIL03_G003,FIL03,plantations,1,15,10,2019,Rainy,Anopheles,unidentified,,male
+408,FIL03_G003,FIL03,plantations,1,15,10,2019,Rainy,Anopheles,unidentified,,male
+409,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Culex,,,female
+410,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+411,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+412,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+413,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+414,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+415,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+416,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+417,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+418,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+419,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+420,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+421,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+422,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+423,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+424,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+425,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+426,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+427,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+428,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+429,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+430,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+431,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+432,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+433,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+434,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+435,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+436,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+437,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+438,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+439,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+440,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+441,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+442,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+443,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+444,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+445,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+446,FIL01_G002,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+447,V06_G016,V06,village,1,1,11,2019,Rainy,Anopheles,vagus,An. vagus,female
+448,PL04_G003B,PL04,plantations,1,1,11,2019,Rainy,Aedes,,,female
+449,PL04_G003B,PL04,plantations,1,1,11,2019,Rainy,Aedes,,,female
+450,PL04_G004,PL04,plantations,1,1,11,2019,Rainy,Aedes,,,male
+451,PL04_G004,PL04,plantations,1,1,11,2019,Rainy,Aedes,,,female
+452,PL04_G004,PL04,plantations,1,1,11,2019,Rainy,Aedes,,,female
+453,PL04_G004,PL04,plantations,1,1,11,2019,Rainy,Aedes,,,female
+454,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+455,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+456,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+457,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+458,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+459,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+460,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+461,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+462,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+463,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+464,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+465,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+466,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+467,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+468,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+469,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+470,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+471,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+472,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+473,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+474,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+475,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+476,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+477,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+478,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+479,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+480,V06_G003,V06,village,1,1,11,2019,Rainy,Culex,,,female
+481,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,male
+482,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,subpictus,An. subpictus,female
+483,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,vagus,An. vagus,female
+484,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,male
+485,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,male
+486,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+487,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,subpictus,An. subpictus,female
+488,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,vagus,An. vagus,female
+489,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,male
+490,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+491,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,male
+492,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+493,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,vagus,An. vagus,female
+494,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+495,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,subpictus,An. subpictus,female
+496,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,subpictus,An. subpictus,female
+497,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+498,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+499,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,male
+500,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+501,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,male
+502,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,male
+503,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,male
+504,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,male
+505,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,male
+506,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,male
+507,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+508,PL01_G003,PL01,plantations,1,2,11,2019,Rainy,Culex,,,female
+509,PL04_G004,PL04,plantations,1,1,11,2019,Rainy,Aedes,,,female
+510,PL04_G004,PL04,plantations,1,1,11,2019,Rainy,Culex,,,male
+511,V06_G015,V06,village,1,1,11,2019,Rainy,Anopheles,unidentified,,female
+512,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+513,V06_G009,V06,village,1,1,11,2019,Rainy,Malaya ,jacobsoni,An. jacobsoni,female
+514,V06_G010,V06,village,1,1,11,2019,Rainy,Malaya ,jacobsoni,An. jacobsoni,female
+515,V06_G010,V06,village,1,1,11,2019,Rainy,Malaya ,jacobsoni,An. jacobsoni,female
+516,V06_G010,V06,village,1,1,11,2019,Rainy,Malaya ,jacobsoni,An. jacobsoni,female
+517,V06_G010,V06,village,1,1,11,2019,Rainy,Malaya ,jacobsoni,An. jacobsoni,female
+518,V06_G010,V06,village,1,1,11,2019,Rainy,Malaya ,jacobsoni,An. jacobsoni,female
+519,V06_G010,V06,village,1,1,11,2019,Rainy,Malaya ,jacobsoni,An. jacobsoni,female
+520,FIH03_G004,FIH03,fields,1,1,11,2019,Rainy,Anopheles,philippinensis,An. philippinensis,female
+521,PL04_G003A,PL04,plantations,1,1,11,2019,Rainy,Culex,,,female
+522,V06_G007,V06,village,1,1,11,2019,Rainy,Aedes,,,male
+523,V06_G007,V06,village,1,1,11,2019,Rainy,Aedes,,,female
+524,PL04_G003A,PL04,plantations,1,1,11,2019,Rainy,Culex,,,female
+525,V06_G007,V06,village,1,1,11,2019,Rainy,Aedes,,,male
+526,V06_G010,V06,village,1,1,11,2019,Rainy,Malaya ,jacobsoni,An. jacobsoni,female
+527,V06_G015,V06,village,1,1,11,2019,Rainy,Culex,,,female
+528,FIH03_G013,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+529,FIH03_G016,FIH03,fields,1,1,11,2019,Rainy,Culex,,,female
+530,FIH03_G016,FIH03,fields,1,1,11,2019,Rainy,Anopheles,indefinitus,An. indefinitus,female
+531,PL04_G005,PL04,plantations,1,1,11,2019,Rainy,Armigeres,,,female
+532,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+533,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+534,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+535,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+536,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+537,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+538,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+539,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+540,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+541,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+542,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+543,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+544,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+545,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+546,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+547,FIL03_G003,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,male
+548,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+549,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+550,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+551,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,male
+552,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,male
+553,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+554,FIL03_G006,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,male
+555,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,male
+556,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+557,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Culex,,,male
+558,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Culex,,,female
+559,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,female
+560,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,female
+561,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+562,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+563,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+564,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,male
+565,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,female
+566,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+567,FIL03_G003,FIL03,plantations,1,15,10,2019,Rainy,Culex,,,male
+568,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,female
+569,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+570,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male 
+571,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+572,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+573,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,female
+574,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,female
+575,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+576,FIL03_G003,FIL03,plantations,1,15,10,2019,Rainy,Culex,,,male
+577,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,female
+578,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+579,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+580,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+581,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+582,FIL03_G009,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,female
+583,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,female
+584,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+585,FIL03_G003,FIL03,plantations,1,15,10,2019,Rainy,Culex,,,male
+586,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,male
+587,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+588,FIL03_G003,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,female
+589,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+590,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+591,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+592,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,male
+593,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,female
+594,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+595,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Culex,,,female
+596,FIL03_G011C,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+597,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+598,FIH04_G002,FIH04,fields,1,16,10,2019,Rainy,Anopheles,indefinitus,An. indefinitus,male
+599,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,male
+600,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,female
+601,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,male
+602,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+603,FIL03_G006,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,male
+604,FIL03_G002,FIL03,plantations,1,15,10,2019,Rainy,Culex,,,female
+605,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+606,FIL03_G011A,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+607,FIL01_G001,FIL01,fields,1,30,10,2019,Rainy,Aedes,,,female
+608,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,male
+609,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,male
+610,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+611,FIL03_G006,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,female
+612,FIL03_G002,FIL03,plantations,1,15,10,2019,Rainy,Culex,,,female
+613,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,female
+614,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+615,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+616,FIL01_G001,FIL01,fields,1,15,10,2019,Rainy,Aedes,,,male
+617,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,female
+618,FIL03_G004,FIL03,plantations,1,15,10,2019,Rainy,Aedes,,,male
+619,FIL03_G011B,FIL03,plantations,1,15,10,2019,Rainy,Armigeres,,,male
+620,FIH03_G033,FIH03,fields,4,31,7,2020,Rainy,Anopheles,kochi,An. kochi,male
+621,FIH03_G033,FIH03,fields,4,31,7,2020,Rainy,Anopheles,kochi,An. kochi,male
+622,FIH03_G033,FIH03,fields,4,31,7,2020,Rainy,Anopheles,kochi,An. kochi,male
+623,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Anopheles,kochi,An. kochi,female
+624,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Anopheles,indefinitus,An. indefinitus,male 
+625,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Anopheles,kochi,An. kochi,male 
+626,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Anopheles,kochi,An. kochi,male 
+627,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Anopheles,kochi,An. kochi,female
+628,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Anopheles,kochi,An. kochi,female
+629,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Anopheles,kochi,An. kochi,female
+630,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Anopheles,kochi,An. kochi,female
+631,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Anopheles,kochi,An. kochi,female
+632,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Anopheles,indefinitus,An. indefinitus,male
+633,FIH04_G035,FIH04,fields,4,30,7,2020,Rainy,Anopheles,maculatus,An. maculatus,female
+634,FIH04_G035,FIH04,fields,4,30,7,2020,Rainy,Anopheles,maculatus,An. maculatus,male
+635,FIH03_G037,FIH03,fields,4,31,7,2020,Rainy,Anopheles,hyrcanus,An. hyrcanus,male
+636,FIH03_G069,FIH03,fields,4,31,7,2020,Rainy,Anopheles,kochi,An. kochi,female
+637,FIH03_G069,FIH03,fields,4,31,7,2020,Rainy,Anopheles,kochi,An. kochi,male
+638,FIH03_G069,FIH03,fields,4,31,7,2020,Rainy,Anopheles,kochi,An. kochi,female
+639,FIH03_G064,FIH03,fields,4,31,7,2020,Rainy,Anopheles,vagus,An. vagus,female
+640,FIH03_G039,FIH03,fields,4,31,7,2020,Rainy,Anopheles,nivipes,An. nivipes,female
+641,FIH03_G065,FIH03,fields,4,31,7,2020,Rainy,Anopheles,indefinitus,An. indefinitus,male
+642,FIH03_G035,FIH03,fields,4,30,7,2020,Rainy,Anopheles,maculatus,An. maculatus,male
+643,V06_G044,V06,village,4,7,8,2020,Rainy,Anopheles,subpictus,An. subpictus,female
+644,V06_G044,V06,village,4,7,8,2020,Rainy,Anopheles,unidentified,,male
+645,V06_G044,V06,village,4,7,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+646,V06_G074,V06,village,4,7,8,2020,Rainy,Anopheles,indefinitus,An. indefinitus,male
+647,V06_G074,V06,village,4,7,8,2020,Rainy,Anopheles,indefinitus,An. indefinitus,male
+648,V06_G074,V06,village,4,7,8,2020,Rainy,Anopheles,kochi,An. kochi,male
+649,V06_G074,V06,village,4,7,8,2020,Rainy,Anopheles,subpictus,An. subpictus,female
+650,V06_G074,V06,village,4,7,8,2020,Rainy,Anopheles,unidentified,,male
+651,V06_G074,V06,village,4,7,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+652,V06_G074,V06,village,4,7,8,2020,Rainy,Anopheles,kochi,An. kochi,female
+653,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,subpictus,An. subpictus,female
+654,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,subpictus,An. subpictus,female
+655,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+656,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+657,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+658,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+659,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+660,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+661,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+662,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+663,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+664,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,indefinitus,An. indefinitus,female
+665,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,subpictus,An. subpictus,female
+666,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+667,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+668,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+669,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+670,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+671,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+672,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+673,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+674,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+675,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+676,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+677,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+678,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+679,V06_G050,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+680,V06_G073,V06,village,4,7,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+681,V06_G072,V06,village,4,7,8,2020,Rainy,Anopheles,kochi,An. kochi,female
+682,V06_G072,V06,village,4,7,8,2020,Rainy,Anopheles,kochi,An. kochi,male
+683,V06_G072,V06,village,4,7,8,2020,Rainy,Anopheles,kochi,An. kochi,male
+684,V06_G072,V06,village,4,7,8,2020,Rainy,Anopheles,kochi,An. kochi,male
+685,V06_G072,V06,village,4,7,8,2020,Rainy,Anopheles,subpictus,An. subpictus,female
+686,V06_G072,V06,village,4,7,8,2020,Rainy,Anopheles,vagus,An. vagus,male
+687,V06_G072,V06,village,4,7,8,2020,Rainy,Anopheles,hyrcanus,An. hyrcanus,male
+688,V06_G051,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+689,V06_G051,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+690,V06_G051,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+691,V06_G047,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+692,V06_G047,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+693,V06_G047,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+694,V06_G047,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,male
+695,V06_G047,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,male
+696,V06_G047,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,male
+697,V06_G047,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+698,V06_G047,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+699,V06_G047,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,male
+700,V06_G047,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+701,V06_G047,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+702,V06_G047,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+703,V05_G035,V05,village,4,10,8,2020,Rainy,Anopheles,indefinitus,An. indefinitus,male
+704,V05_G035,V05,village,4,10,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+705,V05_G035,V05,village,4,10,8,2020,Rainy,Anopheles,vagus,An. vagus,male
+706,V05_G035,V05,village,4,10,8,2020,Rainy,Anopheles,vagus,An. vagus,male
+707,V05_G035,V05,village,4,10,8,2020,Rainy,Anopheles,subpictus,An. subpictus,female
+708,V05_G035,V05,village,4,10,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+709,V05_G035,V05,village,4,10,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+710,V05_G035,V05,village,4,10,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+711,V05_G035,V05,village,4,10,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+712,V05_G035,V05,village,4,10,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+713,V05_G035,V05,village,4,10,8,2020,Rainy,Anopheles,unidentified,,male
+714,V06_G046,V06,village,4,7,8,2020,Rainy,Anopheles,indefinitus,An. indefinitus,male
+715,V06_G046,V06,village,4,7,8,2020,Rainy,Anopheles,unidentified,,male
+716,V06_G055,V06,village,4,8,8,2020,Rainy,Anopheles,kochi,An. kochi,male
+720,V06_G045,V06,village,4,7,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+721,V06_G045,V06,village,4,7,8,2020,Rainy,Anopheles,vagus,An. vagus,male
+722,V06_G045,V06,village,4,7,8,2020,Rainy,Anopheles,vagus,An. vagus,male
+723,V06_G045,V06,village,4,7,8,2020,Rainy,Anopheles,unidentified,,male
+724,V06_G045,V06,village,4,7,8,2020,Rainy,Anopheles,subpictus,An. subpictus,female
+725,V06_G045,V06,village,4,7,8,2020,Rainy,Anopheles,unidentified,,male
+726,FIH02_G060,FIH02,fields,4,11,8,2020,Rainy,Anopheles,vagus,An. vagus,male
+727,V05_G036,V05,village,4,10,8,2020,Rainy,Anopheles,vagus,An. vagus,male
+728,V05_G036,V05,village,4,10,8,2020,Rainy,Anopheles,subpictus,An. subpictus,female
+729,V05_G036,V05,village,4,10,8,2020,Rainy,Anopheles,unidentified,,male
+730,V05_G036,V05,village,4,10,8,2020,Rainy,Anopheles,unidentified,,male
+731,V05_G036,V05,village,4,10,8,2020,Rainy,Anopheles,unidentified,,male
+732,V05_G036,V05,village,4,10,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+733,V05_G036,V05,village,4,10,8,2020,Rainy,Anopheles,unidentified,,male
+734,V05_G036,V05,village,4,10,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+735,V05_G064,V05,village,4,10,8,2020,Rainy,Anopheles,unidentified,,male
+736,V05_G064,V05,village,4,10,8,2020,Rainy,Anopheles,philippinensis,An. philippinensis,female
+737,V05_G064,V05,village,4,10,8,2020,Rainy,Anopheles,philippinensis,An. philippinensis,female
+738,V06_G053,V06,village,4,8,8,2020,Rainy,Anopheles,nivipes,An. nivipes,female
+739,V06_G048,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+740,V06_G048,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+741,V06_G048,V06,village,4,8,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+742,V06_G048,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+743,V05_G066,V05,village,4,10,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+744,V06_G056,V06,village,4,8,8,2020,Rainy,Anopheles,unidentified,,male
+745,V06_G056,V06,village,4,8,8,2020,Rainy,Anopheles,nivipes,An. nivipes,male
+746,V05_G060,V05,village,4,10,8,2020,Rainy,Anopheles,unidentified,,male
+747,V05_G060,V05,village,4,10,8,2020,Rainy,Anopheles,barbirostris,An. barbirostris,female
+748,V05_G060,V05,village,4,10,8,2020,Rainy,Anopheles,barbirostris,An. barbirostris,female
+749,V05_G060,V05,village,4,10,8,2020,Rainy,Anopheles,barbirostris,An. barbirostris,male
+750,V05_G061,V05,village,4,10,8,2020,Rainy,Anopheles,unidentified,,male
+751,V05_G061,V05,village,4,10,8,2020,Rainy,Anopheles,vagus,An. vagus,female
+752,V06_G072,V06,village,4,6,8,2020,Rainy,Unidentified,,,female
+753,FIH01_G066,FIH01,fields,4,6,8,2020,Rainy,Aedes,,,female
+754,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+755,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+756,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+757,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+758,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+759,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+760,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+761,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+762,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+763,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+764,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+765,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+766,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+767,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+768,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+769,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+770,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,male
+771,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,male
+772,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,male
+773,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,male
+774,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,male
+775,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,male
+776,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,male
+777,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,male
+778,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,male
+779,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,male
+780,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,female
+781,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,female
+782,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,female
+783,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,female
+784,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,female
+785,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,female
+786,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,female
+787,V06_G036,V06,village,4,7,8,2020,Rainy,Culex,,,female
+788,V06_G036,V06,village,4,7,8,2020,Rainy,Unidentified,,,female
+789,V06_G036,V06,village,4,7,8,2020,Rainy,Unidentified,,,female
+790,V06_G036,V06,village,4,7,8,2020,Rainy,Unidentified,,,female
+791,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,male
+792,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,male
+793,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,male
+794,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,male
+795,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,male
+796,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,male
+797,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,male
+798,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,male
+799,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,male
+800,V06_G036,V06,village,4,7,8,2020,Rainy,Aedes,,,male
+801,V06_G073,V06,village,4,7,8,2020,Rainy,Culex,,,female
+802,V06_G073,V06,village,4,7,8,2020,Rainy,Culex,,,female
+803,V06_G073,V06,village,4,7,8,2020,Rainy,Unidentified,,,female
+804,V06_G073,V06,village,4,7,8,2020,Rainy,Aedes,,,female
+805,V06_G073,V06,village,4,7,8,2020,Rainy,Aedes,,,male
+806,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+807,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+808,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+809,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+810,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+811,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+812,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+813,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+814,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+815,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+816,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+817,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+818,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+819,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+820,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+821,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+822,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+823,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+824,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,female
+825,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,male
+826,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,male
+827,V06_G051,V06,village,4,8,8,2020,Rainy,Culex,,,male
+828,V06_G051,V06,village,4,8,8,2020,Rainy,Aedes,,,male
+829,V06_G051,V06,village,4,8,8,2020,Rainy,Unidentified,,,female
+830,FIL01_G068,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+831,FIL01_G068,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+832,FIL01_G068,FIL01,fields,4,6,8,2020,Rainy,Culex,,,male
+833,FIL01_G068,FIL01,fields,4,6,8,2020,Rainy,Culex,,,male
+834,FIL01_G068,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+835,V06_G041,V06,village,4,7,8,2020,Rainy,Culex,,,male
+836,V06_G041,V06,village,4,7,8,2020,Rainy,Culex,,,male
+837,V06_G035,V06,village,4,6,8,2020,Rainy,Culex,,,male
+838,V06_G035,V06,village,4,6,8,2020,Rainy,Culex,,,male
+839,V06_G035,V06,village,4,6,8,2020,Rainy,Culex,,,female
+840,FIL01_G038,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+841,FIL01_G038,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+842,V06_G057,V06,village,4,8,8,2020,Rainy,Culex,,,male
+843,V06_G057,V06,village,4,8,8,2020,Rainy,Culex,,,male
+844,V06_G057,V06,village,4,8,8,2020,Rainy,Culex,,,male
+845,V06_G057,V06,village,4,8,8,2020,Rainy,Culex,,,female
+846,V06_G057,V06,village,4,8,8,2020,Rainy,Culex,,,female
+847,FIH03_G069,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+848,FIH03_G069,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+849,FIH03_G069,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+850,V05_G062,V05,village,4,10,8,2020,Rainy,Aedes,,,male
+851,V05_G062,V05,village,4,10,8,2020,Rainy,Aedes,,,male
+852,V05_G062,V05,village,4,10,8,2020,Rainy,Aedes,,,male
+853,V05_G062,V05,village,4,10,8,2020,Rainy,Aedes,,,male
+854,V05_G062,V05,village,4,10,8,2020,Rainy,Aedes,,,male
+855,V05_G062,V05,village,4,10,8,2020,Rainy,Aedes,,,male
+856,V05_G062,V05,village,4,10,8,2020,Rainy,Aedes,,,female
+857,V05_G062,V05,village,4,10,8,2020,Rainy,Aedes,,,female
+858,FIH02_G061,FIH02,fields,4,11,8,2020,Rainy,Culex,,,female
+859,FIH02_G061,FIH02,fields,4,11,8,2020,Rainy,Armigeres,,,female
+860,FIH02_G061,FIH02,fields,4,11,8,2020,Rainy,Armigeres,,,female
+861,FIH02_G061,FIH02,fields,4,11,8,2020,Rainy,Tripteroides ,,,female
+862,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+863,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+864,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+865,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Culex,,,female
+866,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Culex,,,female
+867,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Armigeres,,,male
+868,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Armigeres,,,male
+869,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Armigeres,,,male
+870,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Armigeres,,,male
+871,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Armigeres,,,male
+872,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Armigeres,,,male
+873,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Armigeres,,,female
+874,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Armigeres,,,female
+875,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Armigeres,,,female
+876,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Armigeres,,,female
+877,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Armigeres,,,female
+878,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Armigeres,,,female
+879,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Armigeres,,,female
+880,FOH02_G061,FOH02,forest,4,3,8,2020,Rainy,Armigeres,,,female
+881,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,male
+882,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,male
+883,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,male
+884,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,male
+885,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,male
+886,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,male
+887,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,male
+888,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,male
+889,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,male
+890,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,male
+891,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,male
+892,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,male
+893,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,male
+894,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,male
+895,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,female
+896,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,female
+897,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,female
+898,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,female
+899,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,female
+900,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,female
+901,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,female
+902,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,female
+903,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,female
+904,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,female
+905,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,female
+906,V06_G053,V06,village,4,8,8,2020,Rainy,Culex,,,female
+907,V06_G053,V06,village,4,8,8,2020,Rainy,Unidentified,,,female
+908,V06_G053,V06,village,4,8,8,2020,Rainy,Unidentified,,,female
+909,V06_G053,V06,village,4,8,8,2020,Rainy,Unidentified,,,female
+910,V06_G053,V06,village,4,8,8,2020,Rainy,Unidentified,,,female
+911,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+912,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+913,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+914,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+915,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+916,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+917,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+918,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+919,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+920,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+921,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+922,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+923,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+924,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+925,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+926,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+927,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+928,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+929,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+930,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+931,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+932,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+933,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+934,FIH03_G066,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+935,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+936,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+937,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+938,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+939,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+940,FIH03_G063,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+941,FIH03_G065,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+942,FIH03_G065,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+943,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,male
+944,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,male
+945,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,male
+946,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,male
+947,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,male
+948,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,male
+949,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,male
+950,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,male
+951,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,male
+952,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,female
+953,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,female
+954,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,female
+955,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,female
+956,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,female
+957,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,female
+958,V05_G036,V05,village,4,10,8,2020,Rainy,Culex,,,female
+959,V06_G042,V06,village,4,7,8,2020,Rainy,Culex,,,male
+960,v06_G042,v06,village,4,7,8,2020,Rainy,Culex,,,male
+961,V06_G042,V06,village,4,7,8,2020,Rainy,Culex,,,male
+962,V06_G042,V06,village,4,7,8,2020,Rainy,Culex,,,male
+963,V06_G042,V06,village,4,7,8,2020,Rainy,Culex,,,male
+964,V06_G042,V06,village,4,7,8,2020,Rainy,Culex,,,female
+965,V06_G042,V06,village,4,7,8,2020,Rainy,Culex,,,female
+966,V06_G042,V06,village,4,7,8,2020,Rainy,Culex,,,female
+967,V06_G042,V06,village,4,7,8,2020,Rainy,Culex,,,female
+968,V06_G042,V06,village,4,7,8,2020,Rainy,Culex,,,female
+969,V06_G042,V06,village,4,7,8,2020,Rainy,Culex,,,female
+970,FIH02_G033,FIH02,fields,4,11,8,2020,Rainy,Culex,,,male
+971,FIH02_G033,FIH02,fields,4,11,8,2020,Rainy,Culex,,,male
+972,FIH02_G033,FIH02,fields,4,11,8,2020,Rainy,Culex,,,male
+973,FIH02_G033,FIH02,fields,4,11,8,2020,Rainy,Culex,,,male
+974,FIH02_G033,FIH02,fields,4,11,8,2020,Rainy,Culex,,,male
+975,FIH02_G033,FIH02,fields,4,11,8,2020,Rainy,Culex,,,male
+976,FIH02_G033,FIH02,fields,4,11,8,2020,Rainy,Culex,,,female
+977,FIH02_G033,FIH02,fields,4,11,8,2020,Rainy,Culex,,,female
+978,FIH02_G033,FIH02,fields,4,11,8,2020,Rainy,Culex,,,female
+979,FIH02_G033,FIH02,fields,4,11,8,2020,Rainy,Culex,,,female
+980,V05_G060,V05,village,4,10,8,2020,Rainy,Culex,,,male
+981,V05_G060,V05,village,4,10,8,2020,Rainy,Culex,,,male
+982,V05_G060,V05,village,4,10,8,2020,Rainy,Culex,,,male
+983,V05_G060,V05,village,4,10,8,2020,Rainy,Culex,,,male
+984,V05_G060,V05,village,4,10,8,2020,Rainy,Culex,,,male
+985,V05_G060,V05,village,4,10,8,2020,Rainy,Culex,,,female
+986,V05_G060,V05,village,4,10,8,2020,Rainy,Culex,,,female
+987,V05_G060,V05,village,4,10,8,2020,Rainy,Culex,,,female
+988,FIH03_G064,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+989,FIH03_G064,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+990,FIH03_G064,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+991,FIH03_G064,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+992,FIH03_G064,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+993,FIH03_G064,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+994,FIH03_G064,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+995,FIH03_G064,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+996,FIH03_G064,FIH03,fields,4,31,7,2020,Rainy,Culex,,,female
+997,FIH03_G064,FIH03,fields,4,31,7,2020,Rainy,Unidentified,,,female
+998,FIL01_G032,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+999,FIL01_G032,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1000,FIL01_G032,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1001,V05_G037,V05,village,4,10,8,2020,Rainy,Aedes,,,female
+1002,V05_G037,V05,village,4,10,8,2020,Rainy,Aedes,,,female
+1003,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1004,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1005,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1006,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1007,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1008,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1009,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1010,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1011,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1012,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1013,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1014,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1015,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1016,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1017,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1018,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1019,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1020,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1021,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1022,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1023,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1024,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1025,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1026,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1027,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1028,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1029,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1030,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1031,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1032,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1033,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1034,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1035,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1036,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1037,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1038,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1039,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1040,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1041,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1042,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1043,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1044,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1045,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1046,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1047,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1048,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1049,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1050,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1051,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1052,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1053,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1054,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1055,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1056,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1057,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1058,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1059,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1060,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1061,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1062,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1063,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1064,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1065,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1066,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1067,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1068,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1069,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1070,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1071,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1072,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1073,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1074,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1075,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1076,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1077,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1078,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1079,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1080,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1081,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1082,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1083,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1084,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1085,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1086,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1087,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1088,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1089,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1090,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1091,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1092,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1093,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1094,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1095,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1096,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1097,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1098,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1099,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1100,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1101,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1102,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1103,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1104,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1105,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1106,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1107,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1108,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1109,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1110,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1111,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1112,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1113,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1114,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1115,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1116,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1117,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1118,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1119,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1120,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1121,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1122,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1123,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1124,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1125,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1126,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1127,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1128,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1129,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1130,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1131,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1132,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1133,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1134,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1135,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1136,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1137,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1138,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1139,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1140,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1141,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1142,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1143,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1144,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1145,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1146,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1147,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1148,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1149,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1150,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1151,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1152,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1153,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1154,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1155,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1156,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Culex,,,male
+1157,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Culex,,,male
+1158,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Culex,,,female
+1159,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Culex,,,female
+1160,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Culex,,,female
+1161,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Culex,,,female
+1162,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1163,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1164,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1165,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1166,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1167,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1168,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1169,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1170,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1171,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1172,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1173,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1174,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1175,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1176,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1177,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1178,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1179,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1180,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1181,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1182,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1183,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1184,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1185,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1186,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1187,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1188,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1189,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1190,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1191,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1192,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1193,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1194,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1195,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1196,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1197,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1198,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1199,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1200,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1201,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1202,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1203,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1204,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1205,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1206,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1207,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1208,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1209,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1210,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1211,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1212,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1213,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1214,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1215,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1216,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1217,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1218,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1219,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1220,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1221,FIL01_G070,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1222,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1223,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1224,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1225,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1226,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1227,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1228,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1229,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1230,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1231,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1232,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1233,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1234,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1235,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1236,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1237,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1238,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1239,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1240,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1241,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1242,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1243,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1244,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1245,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1246,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1247,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1248,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1249,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1250,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1251,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1252,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1253,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1254,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1255,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1256,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1257,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1258,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1259,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1260,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1261,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1262,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1263,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1264,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1265,FIL01_G073,FIL01,fields,4,6,8,2020,Rainy,Culex,,,male
+1266,V06_G073,V06,village,4,6,8,2020,Rainy,Culex,,,male
+1267,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1268,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1269,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1270,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1271,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1272,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1273,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1274,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1275,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1276,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1277,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1278,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1279,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1280,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1281,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1282,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1283,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1284,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1285,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1286,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1287,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1288,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1289,V06_G046,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1290,V06_G046,V06,village,4,7,8,2020,Rainy,Aedes,,,male
+1291,V06_G046,V06,village,4,7,8,2020,Rainy,Unidentified,,,female
+1292,V06_G052,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1293,V06_G052,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1294,V06_G052,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1295,V06_G052,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1296,V06_G052,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1297,V06_G056,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1298,V06_G056,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1299,V06_G056,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1300,V06_G056,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1301,V06_G056,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1302,V06_G055,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1303,V06_G055,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1304,V06_G055,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1305,V06_G055,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1306,V06_G055,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1307,V06_G055,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1308,V06_G055,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1309,V06_G055,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1310,V06_G055,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1311,V06_G055,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1312,V06_G055,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1313,V06_G055,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1314,V06_G055,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1315,V06_G055,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1316,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Culex,,,male
+1317,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Culex,,,male
+1318,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Culex,,,male
+1319,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Culex,,,male
+1320,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Culex,,,male
+1321,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Culex,,,male
+1322,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1323,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1324,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1325,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1326,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1327,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1328,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1329,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1330,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1331,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1332,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1333,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1334,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1335,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1336,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1337,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1338,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1339,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1340,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1341,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1342,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1343,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1344,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1345,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1346,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1347,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1348,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1349,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1350,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1351,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1352,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1353,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1354,FIL01_G071,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1355,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1356,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1357,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1358,V06_G036,V06,village,4,6,8,2020,Rainy,Culex,,,male
+1359,V06_G047,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1360,V06_G047 ,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1361,V06_G047,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1362,V06_G047,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1363,V06_G047,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1364,V06_G047,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1365,V06_G047,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1366,V06_G047,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1367,V06_G047,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1368,V06_G047,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1369,V06_G047,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1370,V06_G047,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1371,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1372,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1373,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1374,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1375,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1376,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1377,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1378,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1379,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1380,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1381,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1382,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1383,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1384,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1385,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1386,V06_G047,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1387,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+1388,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+1389,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+1390,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+1391,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+1392,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+1393,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+1394,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+1395,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+1396,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+1397,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,female
+1398,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,female
+1399,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,female
+1400,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,female
+1401,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,female
+1402,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Culex,,,female
+1403,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,male
+1404,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,male
+1405,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,male
+1406,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,male
+1407,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,male
+1408,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,male
+1409,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,male
+1410,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,male
+1411,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,male
+1412,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1413,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1414,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1415,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1416,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1417,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1418,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1419,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1420,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1421,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1422,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1423,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1424,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1425,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1426,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1427,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1428,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1429,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1430,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1431,FOH02_G031,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1432,V06_G074,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1433,V06_G074,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1434,V06_G074,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1435,V06_G074,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1436,V06_G074,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1437,V06_G074,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1438,V06_G074,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1439,V06_G074,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1440,V06_G074,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1441,V06_G074,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1442,V06_G074,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1443,V06_G074,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1444,V06_G050,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1445,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1446,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1447,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1448,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1449,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1450,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1451,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1452,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1453,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1454,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1455,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1456,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1457,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1458,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1459,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1460,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1461,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1462,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1463,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1464,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1465,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1466,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1467,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1468,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1469,V06_G044,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1470,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,male
+1471,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,male
+1472,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,male
+1473,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,male
+1474,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,female
+1475,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,female
+1476,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,female
+1477,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,female
+1478,FIH03_G033,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+1479,FIH03_G040,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+1480,FIH03_G040,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+1481,FIH03_G067,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+1482,FIH03_G067,FIH03,fields,4,31,7,2020,Rainy,Culex,,,male
+1483,FIH03_G037,FIH03,fields,4,31,7,2020,Rainy,Aedes,,,male
+1484,FIL01_G032,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1485,FIL01_G032,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1486,FOH02_G067,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1487,FOH02_G067,FOH02,forest,4,3,8,2020,Rainy,Tripteroides ,,,female
+1488,FOH02_G067,FOH02,forest,4,3,8,2020,Rainy,Tripteroides ,,,male
+1489,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1490,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1491,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1492,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1493,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1494,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1495,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1496,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1497,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1498,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1499,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1500,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1501,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1502,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1503,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1504,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1505,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1506,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1507,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1508,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1509,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1510,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1511,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1512,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1513,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1514,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1515,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1516,V06_G072,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1517,FIL01_G073,FIL01,fields,4,7,8,2020,Rainy,Aedes,,,female
+1518,FOH02_G060,FOH02,forest,4,3,8,2020,Rainy,Culex,,,female
+1519,FOH02_G060,FOH02,forest,4,3,8,2020,Rainy,Culex,,,female
+1520,FOH02_G060,FOH02,forest,4,3,8,2020,Rainy,Culex,,,female
+1521,FOH02_G060,FOH02,forest,4,3,8,2020,Rainy,Culex,,,female
+1522,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1523,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1524,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1525,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1526,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1527,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1528,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1529,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1530,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1531,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1532,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1533,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1534,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1535,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1536,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1537,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1538,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1539,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1540,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1541,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1542,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1543,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1544,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1545,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1546,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1547,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1548,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1549,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1550,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1551,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1552,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1553,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1554,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1555,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1556,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1557,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1558,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1559,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1560,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1561,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1562,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1563,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1564,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1565,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1566,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1567,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1568,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1569,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1570,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1571,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Unidentified,,,female
+1572,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1573,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1574,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1575,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1576,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1577,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1578,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1579,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1580,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1581,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1582,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1583,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1584,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1585,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1586,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1587,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1588,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1589,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1590,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1591,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1592,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1593,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1594,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1595,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1596,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1597,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1598,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1599,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1600,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1601,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1602,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1603,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1604,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1605,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1606,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1607,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1608,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1609,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1610,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1611,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1612,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1613,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1614,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1615,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1616,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1617,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1618,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1619,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1620,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1621,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1622,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1623,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1624,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1625,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1626,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1627,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1628,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1629,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1630,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1631,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1632,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1633,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1634,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1635,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1636,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1637,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1638,FIL01_G072,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1639,FIL01_G041,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1640,FIL01_G041,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1641,FIL01_G041,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1642,FIL01_G041,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1643,FIL01_G041,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1644,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1645,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1646,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1647,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1648,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1649,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1650,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1651,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1652,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1653,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1654,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1655,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1656,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1657,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1658,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1659,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1660,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1661,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1662,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1663,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1664,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1665,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1666,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1667,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1668,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1669,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1670,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1671,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1672,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1673,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1674,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1675,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1676,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1677,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1678,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1679,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1680,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1681,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1682,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1683,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1684,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1685,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1686,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1687,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1688,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1689,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1690,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1691,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1692,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1693,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1694,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1695,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1696,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1697,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1698,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1699,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1700,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1701,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1702,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1703,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1704,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1705,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1706,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1707,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1708,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1709,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1710,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1711,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1712,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1713,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1714,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1715,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1716,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1717,FIL01_G063,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1718,FIL01_G063,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1719,FIL01_G063,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1720,FIL01_G063,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1721,FIL01_G063,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1722,FIL01_G063,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1723,FIL01_G063,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1724,FIL01_G063,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1725,FIL01_G063,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1726,FIL01_G042,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1727,FIL01_G042,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1728,FIL01_G042,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1729,FIL01_G042,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1730,FIL01_G042,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1731,FIL01_G042,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1732,FIL01_G042,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1733,FIL01_G042,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1734,FIL01_G042,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1735,FIL01_G042,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1736,V06_G054,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1737,V06_G054,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1738,V06_G054,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1739,V06_G054,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1740,V06_G054,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1741,V06_G054,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1742,V06_G054,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1743,V06_G054,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1744,V06_G054,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1745,V06_G054,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1746,V06_G054,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1747,V06_G054,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1748,V06_G054,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1749,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1750,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1751,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1752,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1753,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1754,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1755,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1756,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1757,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1758,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1759,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1760,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1761,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1762,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1763,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1764,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1765,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1766,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1767,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1768,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1769,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1770,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1771,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1772,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1773,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1774,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1775,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1776,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1777,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1778,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1779,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1780,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1781,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1782,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1783,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1784,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1785,FIL01_G037,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1786,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1787,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1788,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1789,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1790,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1791,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1792,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1793,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1794,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1795,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1796,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1797,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1798,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1799,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1800,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1801,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1802,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1803,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1804,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1805,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1806,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1807,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1808,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1809,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1810,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1811,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1812,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1813,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1814,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1815,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1816,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1817,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1818,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1819,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1820,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1821,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1822,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1823,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1824,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1825,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1826,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1827,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1828,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1829,FIL01_G036,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1830,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1831,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1832,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1833,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1834,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1835,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1836,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1837,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1838,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1839,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1840,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1841,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1842,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1843,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1844,V06_G048,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1845,V06_G048,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1846,V06_G048,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1847,V06_G048,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1848,V06_G048,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1849,V06_G048,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1850,V06_G048,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1851,V06_G048,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1852,V06_G048,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1853,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,male
+1854,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,male
+1855,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,male
+1856,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,male
+1857,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,male
+1858,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,male
+1859,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,male
+1860,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,male
+1861,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,male
+1862,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,male
+1863,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,female
+1864,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,female
+1865,V05_G035,V05,village,4,10,8,2020,Rainy,Culex,,,female
+1866,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1867,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Culex,,,female
+1868,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1869,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Culex,,,male
+1870,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Aedes,,,male
+1871,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1872,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1873,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1874,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Culex,,,female
+1875,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1876,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1877,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1878,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1879,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Culex,,,male
+1880,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Culex,,,male
+1881,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1882,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1883,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Culex,,,female
+1884,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Aedes,,,male
+1885,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1886,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Culex,,,female
+1887,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1888,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Aedes,,,male
+1889,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1890,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,male
+1891,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1892,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Aedes,,,female
+1893,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,culex,,,male
+1894,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1895,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Culex,,,male
+1896,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1897,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Culex,,,female
+1898,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1899,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Culex,,,female
+1900,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Culex,,,male
+1901,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1902,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1903,FOL01_G060,FOL01,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1904,V06_G052,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1905,V06_G052,V06,village,4,8,8,2020,Rainy,Culex,,,male
+1906,V06_G052,V06,village,4,8,8,2020,Rainy,Culex,,,female
+1907,V06_G045,V06,village,4,7,8,2020,Rainy,Unidentified,,,female
+1908,V06_G045,V06,village,4,7,8,2020,Rainy,Unidentified,,,female
+1909,V06_G045,V06,village,4,7,8,2020,Rainy,Unidentified,,,female
+1910,V06_G045,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1911,V06_G045,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1912,V06_G045,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1913,V06_G045,V06,village,4,7,8,2020,Rainy,Culex,,,male
+1914,V06_G045,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1915,V06_G045,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1916,V06_G045,V06,village,4,7,8,2020,Rainy,Unidentified,,,female
+1917,V06_G045,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1918,V06_G045,V06,village,4,7,8,2020,Rainy,Unidentified,,,female
+1919,V06_G045,V06,village,4,7,8,2020,Rainy,Culex,,,female
+1920,FOH02_G066,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1921,FOH02_G066,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1922,FOH02_G066,FOH02,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1923,FOH02_G066,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,female
+1924,FOH02_G066,FOH02,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1925,FOH02_G066,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+1926,FOH02_G066,FOH02,forest,4,3,8,2020,Rainy,Culex,,,male
+1927,FOH02_G066,FOH02,forest,4,3,8,2020,Rainy,Unidentified,,,female
+1928,FOH02_G066,FOH02,forest,4,3,8,2020,Rainy,Tripteroides ,,,female
+1929,FOH02_G066,FOH02,forest,4,3,8,2020,Rainy,Aedes,,,male
+1930,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1931,FIL01_G066,FIL01,fields,4,6,8,2020,Rainy,Unidentified,,,female
+1932,FIL01_G032,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1933,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1934,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1935,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1936,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1937,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1938,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1939,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1940,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1941,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1942,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1943,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1944,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1945,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1946,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1947,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1948,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1949,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1950,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1951,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1952,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1953,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1954,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1955,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1956,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1957,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1958,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1959,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1960,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1961,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1962,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1963,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1964,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1965,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1966,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,male
+1967,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1968,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1969,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1970,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1971,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1972,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1973,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1974,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1975,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1976,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1977,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1978,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1979,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1980,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1981,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1982,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1983,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1984,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1985,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1986,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1987,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1988,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1989,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1990,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1991,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1992,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1993,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1994,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1995,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1996,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1997,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1998,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+1999,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2000,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2001,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2002,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2003,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2004,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2005,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2006,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2007,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2008,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2009,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2010,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2011,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2012,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2013,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2014,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2015,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2016,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2017,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2018,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2019,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2020,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2021,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2022,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female
+2023,FIL01_G031,FIL01,fields,4,6,8,2020,Rainy,Aedes,,,female

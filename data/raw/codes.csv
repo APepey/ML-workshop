@@ -1,0 +1,38 @@
+Site_code,LU,Passage,Village
+FIH01,fields,high,Sraeampilleu
+FIH02,fields,high,Sraeampilkroam
+FIH03,fields,high,Sraektum
+FIH04,fields,high,Sraelvy
+FIH05,fields,high,Gati
+FIL01,fields,low,Sraeampilleu
+FIL02,fields,low,Sraeampilkroam
+FIL03,plantation ,high,Sraelvy
+FIL04,fields,low,Sraelvy
+FIL05,fields,low,Gati
+FOH01,forest,high,Poucha
+FOH02,forest,high,Poucha
+FOH03,forest,high,Gati
+FOH04,forest,high,Sraelvy
+FOH05,forest,high,Gati
+FOL01,forest,low,Poucha
+FOL02,forest,low,Poucha
+FOL03,forest,low,Sraelvy
+FOL04,forest,low,Sraelvy
+FOL05,forest,low,Sraeampilkroam
+PH01,plantation ,high,Sraeampilleu
+PH02,plantation ,high,Sraeampilkroam
+PH03,plantation ,high,Sraeampilkroam
+PH04,plantation ,high,Sraektum
+PH05,plantation ,high,Sraelvy
+PL01,plantation ,low,Sraeampilleu
+PL02,plantation ,low,Poucha
+PL03,plantation ,low,Sraektum
+PL04,plantation ,low,Sraektum
+PL05,plantation ,low,Sraelvy
+V01,village,high,Gati
+V02,village,high,Poucha
+V03,village,high,Ochra
+V04,village,high,Sraeampilkroam
+V05,village,high,Sraeampilleu
+V06,village,high,Sraektum
+V07,village,high,Sraelvy
