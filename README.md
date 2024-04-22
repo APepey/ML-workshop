@@ -6,7 +6,7 @@ An open-source project analysing malaria vectors ecology in Cambodia using machi
 Anyone is free to participate, even though the data is already a few years old and it is a pretty niche interest. I just believe in open data, and who knows, it might be useful to someone.
 
 Collection dates: 2019-2020
-Collecttion Sites: Kaev Seima District, Mindulkiri Province, Cambodia
+Collecttion Sites: Kaev Seima District, Mondulkiri Province, Cambodia
 
 Affiliation: Molecular Malaria Epidemiology Unit, Pasteur Institute of Cambodia
 
@@ -33,4 +33,4 @@ Anaïs Pepey, PhD - [My portfolio](https://apepey.notion.site/Ana-s-Pepey-PhD-50
 
 Project Link: [https://github.com/APepey/malaria-kh](https://github.com/APepey/malaria-kh)
 
-![Parcel of forest destroyed by the slash and burn method to make space for agriculture](images/05A714A7-B75D-4A32-9C03-8571FCC997E6_1_105_c.jpeg.jpg)
+![Parcel of forest destroyed by the slash and burn method to make space for agriculture](images/05A714A7-B75D-4A32-9C03-8571FCC997E6_1_105_c.jpeg)
