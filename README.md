@@ -15,7 +15,7 @@ Anyone is free to participate and use the data, even though the collections are 
 Some relevant research:
  - Previous research from the same lab, same area: [Vantaux et al., 2021](https://www.nature.com/articles/s41598-021-85628-1)
  - Unrelated research, similar approach and conditions: [Marcombe et al., 2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10589990/pdf/12936_2023_Article_4754.pdf)
- - Background on vector-borne diseases and deforestation: [Burkett-Cadena & Vittor, 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8290921/)
+ - General background on vector-borne diseases and deforestation: [Burkett-Cadena & Vittor, 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8290921/)
 
 ## License
 
@@ -24,8 +24,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Anaïs Pepey, PhD - [portfolio](https://apepey.notion.site/Ana-s-Pepey-PhD-5086e0b7c889490abfa67625339825f8) - [email](mailto:ana.pepey@posteo.net)
-
-Project Link: [https://github.com/APepey/malaria-kh](https://github.com/APepey/malaria-kh)
 
 ## Photo gallery
 
