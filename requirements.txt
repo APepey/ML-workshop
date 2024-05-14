@@ -1,6 +1,6 @@
 lightgbm
 matplotlib
 pandas
-scikit-learn
+sklearn
 seaborn
 setuptools
