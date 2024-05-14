@@ -1,6 +1,4 @@
-lightgbm
 matplotlib
 pandas
 scikit-learn
 seaborn
-setuptools
