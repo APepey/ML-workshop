@@ -1,0 +1,109 @@
+country,code,incidence_per_1000
+Afghanistan,AFG,8.436813
+Algeria,DZA,0
+Angola,AGO,251.58232
+Argentina,ARG,0
+Bangladesh,BGD,0.4260533
+Belize,BLZ,0
+Benin,BEN,388.30695
+Bhutan,BTN,0.038529437
+Bolivia,BOL,3.1168666
+Botswana,BWA,1.1282295
+Brazil,BRA,3.8725078
+Burkina Faso,BFA,389.924
+Burundi,BDI,294.86868
+Cambodia,KHM,5.8473434
+Cameroon,CMR,259.95816
+Cape Verde,CPV,0
+Central African Republic,CAF,335.99448
+Chad,TCD,206.27835
+China,CHN,0
+Colombia,COL,9.409265
+Comoros,COM,5.2277207
+Congo,COG,213.17712
+Costa Rica,CRI,0.05047845
+Cote d'Ivoire,CIV,287.04684
+Democratic Republic of Congo,COD,324.20743
+Djibouti,DJI,97.62431
+Dominican Republic,DOM,0.17053702
+East Asia and Pacific (WB),,2.3392897
+East Timor,TLS,0.003225788
+Ecuador,ECU,3.7617824
+Egypt,EGY,0
+El Salvador,SLV,0
+Equatorial Guinea,GNQ,240.83792
+Eritrea,ERI,44.80256
+Eswatini,SWZ,0.7172651
+Ethiopia,ETH,54.126186
+Gabon,GAB,215.46344
+Gambia,GMB,87.26782
+Ghana,GHA,162.84798
+Guatemala,GTM,0.09175724
+Guinea,GIN,319.5383
+Guinea-Bissau,GNB,88.91625
+Guyana,GUY,28.172075
+Haiti,HTI,3.7378092
+Honduras,HND,0.12238629
+India,IND,3.217007
+Indonesia,IDN,2.8694196
+Iran,IRN,0
+Iraq,IRQ,0
+Kenya,KEN,50.926483
+Laos,LAO,1.4987736
+Latin America and Caribbean (WB),,4.6433067
+Liberia,LBR,358.0458
+Low-income countries,,199.26909
+Lower-middle-income countries,,44.182972
+Madagascar,MDG,133.45807
+Malawi,MWI,228.45328
+Malaysia,MYS,0
+Mali,MLI,357.45023
+Mauritania,MRT,29.99058
+Mexico,MEX,0.13024196
+Middle East and North Africa (WB),,4.1962166
+Middle-income countries,,35.01688
+Morocco,MAR,0
+Mozambique,MOZ,320.19397
+Myanmar,MMR,2.5455463
+Namibia,NAM,10.044366
+Nepal,NPL,0.028967233
+Nicaragua,NIC,11.496681
+Niger,NER,324.10617
+Nigeria,NGA,313.7581
+North Korea,PRK,0.18070534
+Oman,OMN,0
+Pakistan,PAK,2.5002596
+Panama,PAN,0.5524364
+Papua New Guinea,PNG,164.3138
+Paraguay,PRY,0
+Peru,PER,2.2969072
+Philippines,PHL,0.67605704
+Rwanda,RWA,230.54346
+Sao Tome and Principe,STP,8.82
+Saudi Arabia,SAU,0.029760431
+Senegal,SEN,49.92938
+Sierra Leone,SLE,328.19016
+Solomon Islands,SLB,167.67278
+Somalia,SOM,52.2015
+South Africa,ZAF,0.7525036
+South Asia (WB),,3.1576624
+South Korea,KOR,0.099196345
+South Sudan,SSD,286.88663
+Sri Lanka,LKA,0
+Sub-Saharan Africa (WB),,223.87862
+Sudan,SDN,73.39838
+Suriname,SUR,1.696578
+Syria,SYR,0
+Tanzania,TZA,120.173325
+Thailand,THA,0.22702488
+Togo,TGO,228.8581
+Uganda,UGA,283.81754
+United Arab Emirates,ARE,0
+Upper-middle-income countries,,1.6080079
+Vanuatu,VUT,2.9627218
+Venezuela,VEN,16.299301
+Vietnam,VNM,0.02309811
+World,OWID_WRL,59.523373
+Yemen,YEM,40.568405
+Zambia,ZMB,186.89862
+Zimbabwe,ZWE,98.50933
