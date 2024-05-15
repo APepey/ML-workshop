@@ -4,8 +4,8 @@
 
 A collection of notebooks and malaria data to teach Machine learning basics. 
 
-### 16th of May 2024: Barcelona, Spain | with [CodeWomen](https://codewomen.plus/en/) and [AllWomen](https://www.allwomen.tech/)
 ### CodeWomen+ Event: An introduction to MACHINE LEARNING using open data 
+16th of May 2024: Barcelona, Spain | with [CodeWomen](https://codewomen.plus/en/) and [AllWomen](https://www.allwomen.tech/)
 
 ## License
 
