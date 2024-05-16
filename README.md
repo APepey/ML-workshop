@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/APepey/ML-workshop/main)
+
 # Using open data and code to learn Machine Learning fundamentals
 
 ## Description
