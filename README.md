@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/APepey/ML-workshop/main)
 
-  ⬆️    Click this button to access the Machine Learning notebooks, ready to use in your browser!
+&nbsp;⬆️&nbsp; Click this button to access my guided machine learning notebooks, ready to use in your browser!
 
 # Using open data and code to learn Machine Learning fundamentals
 
