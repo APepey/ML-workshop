@@ -13,7 +13,7 @@ A collection of notebooks and malaria data to teach Machine learning basics.
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GNU General Public License. See `LICENSE` for more information.
 
 ## Contact
 
