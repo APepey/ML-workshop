@@ -8,9 +8,6 @@
 
 A collection of notebooks and malaria data to teach Machine Learning basics. 
 
-### Related events: 
-- 16th of May 2024: An introduction to Machine Learning using open data | Barcelona, Spain | with [CodeWomen](https://codewomen.plus/en/) and [AllWomen](https://www.allwomen.tech/)
-
 ## License
 
 Distributed under the GNU General Public License. See `LICENSE` for more information.
