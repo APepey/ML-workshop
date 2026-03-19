@@ -1,3 +1,4 @@
+black-nb
 matplotlib
 pandas
 scikit-learn
