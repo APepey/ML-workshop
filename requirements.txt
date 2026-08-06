@@ -1,4 +1,6 @@
+black-nb
 matplotlib
+lightgbm
 pandas
 scikit-learn
 seaborn
